@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CSharp9
+﻿namespace CSharp9
 {
     class MyClass
     {
@@ -28,10 +22,13 @@ namespace CSharp9
 
 
 
+
+
+
     // Remove set and create constructor is a solution but then you have to use parameters instead of initialization
 
     //// C# 9 
-    //data class Point
+    //record Point
     //{
     //    public int X { get; init; }
     //    public int Y { get; init; }

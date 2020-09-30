@@ -16,8 +16,8 @@ namespace CSharp9
             }
         }
 
-        //// C# 9
-        //void Insert(string s!)
+        //// C# Next
+        //void Insert(string s!!)
         //{
 
         //}
